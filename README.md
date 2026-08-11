@@ -1,2 +1,2 @@
-# Proyecto-MoSSe-WSSe
-Estudiar el efecto del desorden térmico en las propiedades electrónicas y ópticas no lineales de MoSSe y WSSe.   MACE-MD -> DFT+SOC -> GW-BSE -> shift current
+# MoSSe-WSSe-project
+Study on the effect of thermal disorder on the electronic and nonlinear optical properties of MoSSe and WSSe. MACE-MD -> DFT+SOC -> GW-BSE -> shift current
